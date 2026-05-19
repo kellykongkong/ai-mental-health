@@ -1,1 +1,0 @@
-import{l as e,n as t,o as n,p as r}from"./index-Dqt40s9u.js";var i={},a={class:`dashboard`};function o(t,i){return r(),e(`div`,a,[...i[0]||=[n(`h1`,null,`控制台`,-1)]])}var s=t(i,[[`render`,o]]);export{s as default};
