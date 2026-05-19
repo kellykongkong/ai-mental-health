@@ -1,0 +1,1 @@
+import{l as e,n as t,o as n,p as r}from"./index-Dqt40s9u.js";var i={};function a(t,i){return r(),e(`div`,null,[...i[0]||=[n(`h1`,null,`注册`,-1)]])}var o=t(i,[[`render`,a]]);export{o as default};

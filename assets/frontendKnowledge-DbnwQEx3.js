@@ -1,0 +1,1 @@
+import{f as e,h as t,t as n,z as r}from"./_plugin-vue_export-helper-Ba33R7Qg.js";var i={},a={class:`frontend-knowledge`};function o(n,i){return r(),t(`div`,a,[...i[0]||=[e(`h1`,null,`知识库`,-1)]])}var s=n(i,[[`render`,o]]);export{s as default};
