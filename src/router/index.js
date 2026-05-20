@@ -91,7 +91,9 @@ const frontendRoutes = [
 ];
 
 const router = createRouter({
-  history: createWebHashHistory(),
+  history: createWebHashHistory(
+    import.meta.env.MODE === "production" ? "/ai-mental-health/" : "/",
+  ),
   routes: [...backendRoutes, ...frontendRoutes],
 });
 // 路由守卫：检查登录状态
